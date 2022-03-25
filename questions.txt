@@ -1,4 +1,19 @@
-Write a SQL query to answer the following questions:
+Given this database schema:
+
+CREATE TABLE clubMembers (
+  id INTEGER PRIMARY KEY,
+  name TEXT,
+  grade INTEGER,
+  favoriteColor TEXT
+);
+
+CREATE TABLE votes (
+  id INTEGER PRIMARY KEY,
+  voterId INTEGER,
+  candidateId INTEGER
+);
+
+Write SQL queries to answer the following questions:
 
 1. Who is club member #5?
 2. What is club member #5's favorite color?
