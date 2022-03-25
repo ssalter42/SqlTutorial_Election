@@ -1,3 +1,5 @@
+A school club is conducting an election for their officer, and they are using this SQLite database to record the results.
+
 Given this database schema:
 
 CREATE TABLE clubMembers (
