@@ -1,22 +1,22 @@
-Queries:
+Write a SQL query to answer the following questions:
 
-Who is club member #5?
-What is club member #5's favorite color?
-Whose favorite color is blue?
-Who doesn't have a favorite color?
-How many club members are there?
-How many club members are in 10th grade?
-Who did club member #6 vote for?
-Who did Beth vote for?
-Who voted for Beth?
-Who voted for themselves?
-Who didnt vote?
-What are the election results for President?
-Extra Credit: Who won the election for President?
+1. Who is club member #5?
+2. What is club member #5's favorite color?
+3. Whose favorite color is blue?
+4. Who doesn't have a favorite color?
+5. How many club members are there?
+6. How many club members are in 10th grade?
+7. Who did club member #6 vote for?
+8. Who did Beth vote for?
+9. Who voted for Beth?
+10. Who voted for themselves?
+11. Who didnt vote?
+12. What are the election results for President?
+13. Extra Credit: Who won the election for President?
 
-Changes:
+Write the following changes in SQL:
 
-Add a club member named Isabel with id 9 in grade 8 whose favorite color is purple.
-Record that Isabel voted for Beth.
-Change Isabel's vote to be for Dana.
-Remove Isabel's vote.
+14. Add a club member named Isabel with id 9 in grade 8 whose favorite color is purple.
+15. Record that Isabel voted for Beth.
+16. Change Isabel's vote to be for Dana.
+17. Remove Isabel's vote.
