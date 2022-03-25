@@ -1,1 +1,4 @@
-SELECT "Hello world!";
+.read clubMembers.sql
+.read votes.sql
+
+.read answers.sql

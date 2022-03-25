@@ -1,0 +1,12 @@
+Who is club member #5?
+What is club member #5's favorite color?
+Who's favorite color is blue?
+Who doesn't have a favorite color?
+How many club members are there?
+How many club members are in 10th grade?
+Who did Beth vote for?
+Who voted for Beth?
+Who voted for themselves?
+Who didnt vote?
+What are the election results for President?
+Extra Credit: Who won the election for President?
